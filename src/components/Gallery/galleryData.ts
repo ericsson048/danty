@@ -8,7 +8,7 @@ export const galleryData = [
     quote: "Your elegance and grace make every moment more beautiful."
   },
   {
-    imageUrl: "https://images.unsplash.com/photo-1529634597503-139d3726fed5?auto=format&fit=crop&q=80",
+    imageUrl: "/danty.jpg",
     quote: "Together, we create memories that will last a lifetime."
   },
   {
