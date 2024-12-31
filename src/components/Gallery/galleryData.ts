@@ -1,10 +1,10 @@
 export const galleryData = [
   {
-    imageUrl: "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&q=80",
+    imageUrl: "/couple1.jpg",
     quote: "In your smile, I found a love that lights up my entire world."
   },
   {
-    imageUrl: "https://images.unsplash.com/photo-1518621736915-f3b1c41bfd00?auto=format&fit=crop&q=80",
+    imageUrl: "/couple2.jpg",
     quote: "Your elegance and grace make every moment more beautiful."
   },
   {
